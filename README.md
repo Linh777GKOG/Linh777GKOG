@@ -1,5 +1,5 @@
 <h1 align="center">Greetings, wanderer! I am Linh 🚀</h1>
-<h3 align="center">Salutations! I am Linh, an ardent code weaver on a ceaseless quest to breathe life into ingenious applications and solutions. I am a firm believer in technology's potential to reshape reality, and I ardently dedicate myself to contributing to this techno-odyssey.</h3>
+<h3 align="center">Salutations! I'm Linh, an ardent code weaver on a ceaseless quest to breathe life into ingenious applications and solutions. I am a firm believer in technology's potential to reshape reality, and I ardently dedicate myself to contributing to this techno-odyssey.</h3>
 
 
 ## 🌐 Socials:
