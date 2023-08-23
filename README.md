@@ -1,5 +1,5 @@
-<h1 align="center">Hello there! I'm Linh 👋</h1>
-<h3 align="center">Hello! I'm Linh, a passionate programmer dedicated to crafting innovative applications and solutions. I believe that technology has the power to change the world, and I'm committed to contributing to that mission.</h3>
+<h1 align="center">Greetings, wanderer! I am Linh 🚀</h1>
+<h3 align="center">Salutations! I am Linh, an ardent code weaver on a ceaseless quest to breathe life into ingenious applications and solutions. I am a firm believer in technology's potential to reshape reality, and I ardently dedicate myself to contributing to this techno-odyssey.</h3>
 
 
 ## 🌐 Socials:
