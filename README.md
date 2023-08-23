@@ -14,7 +14,7 @@
 
 <a  style="justify-content: center" href="https://app.daily.dev/Linh777"><img src="https://api.daily.dev/devcards/674a92f240204671a3b01652514928a1.png?r=9ob" width="300" alt="Linh's Dev Card"/></a>
 
-### ✍️ Random Dev Quote
+### Together, let us script the chronicles of the future through the magical realm of open-source incantations!
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
