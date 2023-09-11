@@ -18,8 +18,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=linh777gkog&show_icons=true&locale=en" alt="linh777gkog" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=linh777gkog&" alt="linh777gkog" /></p>
-
 <a  style="justify-content: center" href="https://app.daily.dev/Linh777"><img src="https://api.daily.dev/devcards/674a92f240204671a3b01652514928a1.png?r=9ob" width="300" alt="Linh's Dev Card"/></a>
 
 ### Together, let us script the chronicles of the future through the magical realm of open-source incantations!
