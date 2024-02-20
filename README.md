@@ -12,7 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=linh777gkog&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=linh777gkog&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<a  style="justify-content: center" href="https://app.daily.dev/Linh777"><img src="https://api.daily.dev/devcards/674a92f240204671a3b01652514928a1.png?r=9ob" width="300" alt="Linh's Dev Card"/></a>
+<a href="https://app.daily.dev/linh777"><img src="https://api.daily.dev/devcards/v2/GV4haQXAKeMZkK1vpafva.png?type=default&r=y5a" width="356" alt="Linh's Dev Card"/></a>
 
 ### Together, let us script the chronicles of the future through the magical realm of open-source incantations!
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
